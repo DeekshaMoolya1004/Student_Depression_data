@@ -1,6 +1,6 @@
-Student Depression Analysis
+**Student Depression Analysis**
 
-Overview
+**Overview**
 
 This project aims to analyze and visualize the factors affecting student mental health, particularly depression, based on various attributes such as academic pressure, financial stress, work/study hours, sleep duration, and family history of mental illness. The dataset was created in MySQL using Workbench, cleaned, and then connected to Jupyter Notebook for data visualization.
 
@@ -10,7 +10,7 @@ Dataset Name: student_depression
 
 Source: Created and stored in MySQL Workbench
 
-Data Cleaning: Handled missing values, removed inconsistencies, and ensured proper data types before analysis.
+**Data Cleaning:** Handled missing values, removed inconsistencies, and ensured proper data types before analysis.
 
 Columns:
 
@@ -50,7 +50,7 @@ Family History of Mental Illness: Yes/No
 
 Depression: Presence of depression symptoms
 
-Technologies Used
+**Technologies Used**
 
 Database: MySQL (Workbench for database creation and management)
 
@@ -80,7 +80,7 @@ Correlation Analysis - To find relationships between Family History of Mental Il
 
 Box Plots & Histograms - To study the distribution of Work/Study Hours
 
-Key Findings
+**Key Findings**
 
 Financial stress is a major factor in mental health issues.
 
@@ -113,8 +113,8 @@ Run Jupyter Notebook:
 Execute Python scripts to load and clean data.
 
 Perform visualizations using matplotlib and seaborn.
-
-Analyze Results:
+**
+Analyze Results:**
 
 Explore trends and insights through generated charts.
 
